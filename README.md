@@ -2,7 +2,7 @@
 
 [![Leevi's github stats](https://github-readme-stats.vercel.app/api?username=leevilaukka&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevilaukka)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevilaukka&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **leevilaukka/leevilaukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
