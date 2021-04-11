@@ -6,7 +6,7 @@ Hi there! 👋
 Ensimmäisen vuoden tradenomiopiskelija Laurea-ammattikorkeakoulussa. Kiinnostunut JavaScript-webbikehitysprojekteista (varsinkin MERN-stack), sekä front- että backend puolella.
 
 ### EN
-First year BBA student from Laurea University of Applied Sciences. Interested in MERN-stack projects, frontend and backend.
+First year BBA student at Laurea University of Applied Sciences. Interested in MERN-stack projects, frontend and backend.
 
 
 [![Leevi's github stats](https://github-readme-stats.vercel.app/api?username=leevilaukka&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
