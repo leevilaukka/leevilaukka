@@ -3,7 +3,7 @@
 Hi there! 👋
 ## Introduction
 ### FI
-Ensimmäisen vuoden tradenomiopiskelija Laurean ammattikorkeakoulussa. Kiinnostunut JavaScript-webbikehitysprojekteista (varsinkin MERN-stack), sekä front- että backend puolella.
+Ensimmäisen vuoden tradenomiopiskelija Laurea-ammattikorkeakoulussa. Kiinnostunut JavaScript-webbikehitysprojekteista (varsinkin MERN-stack), sekä front- että backend puolella.
 
 ### EN
 First year BBA student from Laurea University of Applied Sciences. Interested in MERN-stack projects, frontend and backend.
