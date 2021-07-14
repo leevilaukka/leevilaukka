@@ -1,7 +1,7 @@
 
 # Leevi Laukka
 Hi there! 👋
-## Introduction
+## Esittely / Introduction
 ### FI
 Ensimmäisen vuoden tradenomiopiskelija Laurea-ammattikorkeakoulussa. Kiinnostunut JavaScript-webbikehitysprojekteista (varsinkin MERN-stack), sekä front- että backend puolella.
 
