@@ -1,6 +1,6 @@
 
 # Leevi Laukka
-Hi there! 👋
+Hello there! 👋
 ## Esittely / Introduction
 ### FI
 Kolmannen vuoden tradenomiopiskelija Laurea-ammattikorkeakoulussa. Kiinnostunut JavaScript-webbikehitysprojekteista (varsinkin MERN-stack), sekä front- että backend puolella.
