@@ -3,10 +3,10 @@
 Hello there! 👋
 ## Esittely / Introduction
 ### FI
-Kolmannen vuoden tradenomiopiskelija Laurea-ammattikorkeakoulussa. Kiinnostunut JavaScript-webbikehitysprojekteista (varsinkin MERN-stack), sekä front- että backend puolella.
+Neljännen vuoden tradenomiopiskelija Laurea-ammattikorkeakoulussa. Kiinnostunut JavaScript-webbikehitysprojekteista (varsinkin MERN-stack), sekä front- että backend puolella.
 
 ### EN
-Third year BBA student at Laurea University of Applied Sciences. Interested in MERN-stack projects, frontend and backend.
+Fourth year BBA student at Laurea University of Applied Sciences. Interested in MERN-stack projects, frontend and backend.
 
 
 <!--
