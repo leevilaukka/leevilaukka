@@ -73,4 +73,3 @@ I see AI as an extension of my development toolkit rather than a replacement for
 - **Website:** [leevila.fi](https://leevila.fi)
 - **GitHub:** [@leevilaukka](https://github.com/leevilaukka)
 - **X:** [@LeeviLaukka](https://x.com/LeeviLaukka)
-- 
