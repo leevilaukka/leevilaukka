@@ -1,6 +1,6 @@
 # Hi, I'm Leevi 👋
 
-**Full-stack developer | TypeScript enthusiast**
+**Full-stack developer | TypeScript & Bun enthusiast**
 
 I'm a developer from Finland with a passion for building practical web applications and solving interesting technical problems.
 
